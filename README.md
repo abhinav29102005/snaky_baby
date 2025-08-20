@@ -64,23 +64,33 @@ To get started, you'll need to install the necessary Python packages. Open your 
 Bash
 
 pip install opencv-python mediapipe numpy tkinter
-🚀 Running the Game
-Navigate to the project directory in your terminal and execute the main script:
 
-Bash
+🚀 Running the Game
+
+Navigate to the project directory in your terminal and execute the main script:
 
 python main.py
 ⌨️ Controls
+
 Key	Function
+
 Q	Quit the game
+
 F	Toggle fullscreen mode
+
 ENTER	Confirm selection / Advance to next screen
+
 BACKSPACE	Delete character (in name input)
+
 ESC	Go back to the main menu
+
 1 to 4	Select number of players (in menu)
+
 Hand Gesture	Function
+
 Open Palm	Move the snake
+
 Closed Fist	Pause / Resume the game
 
-Export to Sheets
+
 Thank you for checking out the project! Enjoy the enhanced experience!
